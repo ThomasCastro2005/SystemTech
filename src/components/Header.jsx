@@ -1,7 +1,7 @@
 import React from "react";
 import "../styles/header.css";
 import { Link, useNavigate } from "react-router-dom";
-import { useAuth } from "../context/AuthCOntext";
+import { useAuth } from "../context/AuthContext";
 import { toast } from "react-toastify";
 
 function Header() {
