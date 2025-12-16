@@ -4,7 +4,7 @@ import img from '../assets/loginImgs/img.png'
 import { useNavigate } from 'react-router-dom'
 import { useState } from 'react'
 import Swal from 'sweetalert2'
-import { useAuth } from '../context/AuthCOntext'
+import { useAuth } from '../context/AuthContext'
 import { toast } from 'react-toastify'
 
 
