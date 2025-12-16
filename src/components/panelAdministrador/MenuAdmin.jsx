@@ -1,6 +1,6 @@
 import React from 'react'
 import { Link } from 'react-router-dom'
-import '../../styles/panelAdministrador/MenuAdmin.css'
+import '../../src/styles/panelAdministrador/MenuAdmin.css'
 
 export const MenuAdmin = () => {
     return (
