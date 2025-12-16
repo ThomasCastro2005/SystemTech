@@ -1,6 +1,6 @@
 import React, { useState } from 'react'
 import Header from '../Header'
-import { Card } from './card'
+import { Card } from './Card'
 import '../../styles/catalogoServicios/catalogo.css'
 import img1 from "../../assets/catalogoServiciosImgs/sharedimage15.jpg";
 import img2 from "../../assets/catalogoServiciosImgs/Ciberseguridad.png";
